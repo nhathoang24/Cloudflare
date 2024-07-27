@@ -1,7 +1,7 @@
 name: Add Rules to Cloudflare Gateway
 on:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "30 20 * * *"
   push:
     branches:
       - main
