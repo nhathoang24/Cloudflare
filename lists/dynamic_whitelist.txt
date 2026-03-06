@@ -1,2 +1,4 @@
-# connect.facebook.net
-api-js.datadome.co
+pagead2.googlesyndication.com
+imasdk.googleapis.com
+googletagmanager.com
+app.appsflyer.com
